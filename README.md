@@ -1,4 +1,4 @@
-# SingleChoiceBottomMenu
+# SingleChoiceBottomSheetMenu
 An android library to show a single choice menu from bottom with a BottomSheetDialogFragment
 
 
@@ -7,7 +7,7 @@ An android library to show a single choice menu from bottom with a BottomSheetDi
 
 ### Example
 
-    SingleChoiceBottomMenu
+    SingleChoiceBottomSheetMenu
        .create()
        .setMenuTitle("Title single choice")
        .setMenuSubTitle("Subtitle single choice")
